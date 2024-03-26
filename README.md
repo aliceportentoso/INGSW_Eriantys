@@ -9,11 +9,6 @@ Si chiede di implementare una versione del gioco da tavolo Eriantys.
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="src/main/resources/Welcome.png" alt="Logo" width="512" height="288">
   </a>
-
-  <h3 align="center">ERIANTYS</h3>
-  <p align="center">
-    PoliMi Software Engineering Project 2022
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
